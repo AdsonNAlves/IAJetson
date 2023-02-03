@@ -18,5 +18,7 @@ passo 8 install pyrealsense
 passo 9 tensorflow 
 '''' https://github.com/IntelRealSense/librealsense/tree/b874e42685aed1269bc57a2fe5bf14946deb6ede/wrappers/tensorflow
 passo 10 exercicio da apostila 
+extra https://github.com/adap/flower/tree/main/examples/embedded_devices
+
 
 
