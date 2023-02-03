@@ -1,0 +1,22 @@
+passo 1 install iso and download https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-2gb-devkit
+passo 2 git https://github.com/JetsonHacksNano/installLibrealsense
+passo 3 explorar comandos de terminal
+passo 4 install vs code https://jetsonhacks.com/2019/10/01/jetson-nano-visual-studio-code-python/
+''' https://www.cyberciti.biz/faq/stress-test-linux-unix-server-with-stress-ng/
+''' https://pytorch.org/blog/running-pytorch-models-on-jetson-nano/
+
+passo 5 comparar GPU com CPU
+passo 6 GPIO (Led e Buser)
+passo 7 opencv facerecognition 
+''' https://stackoverflow.com/questions/38613316/how-to-upgrade-pip3
+passo 8 install pyrealsense 
+'''' https://dev.intelrealsense.com/docs/python2
+'''' https://github.com/IntelRealSense/librealsense/releases/
+'''' https://github.com/IntelRealSense/librealsense/issues/6964
+'''' https://github.com/jetsonhacks/buildLibrealsense2TX/issues/13
+'''' -> r https://github.com/IntelRealSense/librealsense/issues/6964#issuecomment-707501049
+passo 9 tensorflow 
+'''' https://github.com/IntelRealSense/librealsense/tree/b874e42685aed1269bc57a2fe5bf14946deb6ede/wrappers/tensorflow
+passo 10 exercicio da apostila 
+
+
